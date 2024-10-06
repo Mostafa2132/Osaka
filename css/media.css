@@ -1,0 +1,5 @@
+@media screen and (max-width:1000px) {
+    .navbar-nav .nav-link.active::after{
+        width: 100% !important;
+    }
+}
