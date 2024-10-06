@@ -2,4 +2,11 @@
     .navbar-nav .nav-link.active::after{
         width: 100% !important;
     }
+  
+}
+
+@media screen and (min-width:60px) and (max-width:700px) {
+  .sec_header h2{
+    font-size: 70px !important;
+  }
 }

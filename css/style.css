@@ -223,6 +223,9 @@ header ul li:hover {
 
 }
 
+#portfolio{
+    overflow: hidden;
+}
 
 /*!! Portfolio */
 
