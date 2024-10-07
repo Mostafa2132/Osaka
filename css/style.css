@@ -6,6 +6,7 @@
 
 :root {
     --main-Color: #ff206e;
+    scroll-behavior: auto;
 }
 
 body {
@@ -340,3 +341,9 @@ header ul li:hover {
 }
 
 
+
+
+#Portfolio{
+    background-image: url(../images/dark_dot.jpg);
+    /* background-position: cent;; */
+}
